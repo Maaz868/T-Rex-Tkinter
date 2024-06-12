@@ -9,16 +9,16 @@ The goal of this project was to create an engaging and customizable jumping dino
 ## Screenshots
 
 ### Main Page
-![Main Page](T-rex1.png)
+![Main Page](T-rex1.PNG)
 
 ### Settings Page
-![Settings Page](T-rex2.png)
+![Settings Page](T-rex2.PNG)
 
 ### Playing Game
-![Playing Game](T-rex3.png)
+![Playing Game](T-rex3.PNG)
 
 ### Leaderboard
-![Leaderboard](T-rex4.png)
+![Leaderboard](T-rex4.PNG)
 
 ## 🚀 Objectives
 
